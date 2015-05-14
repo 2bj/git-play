@@ -1,0 +1,3 @@
+[submodule "git-play2"]
+	path = git-play2
+	url = git@github.com:2bj/git-play2.git
